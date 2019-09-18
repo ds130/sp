@@ -1,7 +1,13 @@
 
 Project Title: Data Science - JSON File: Loading and Data Analysis
 
-=====
+===== To view Notebook file in Github =====
+
+Due to a github bug, sometimes jupyter notebook files fail to load. If that happens, then to view the notebook file paste this link to your browser:
+
+https://nbviewer.jupyter.org/github/ds130/sp/blob/master/projects/jsonFileDataAnalysis/json_dataAnalysis.ipynb
+
+===== 
 
 
 Included one Python Notebook file:
@@ -12,6 +18,12 @@ Included one Python Notebook file:
 
 Included the corresponding python file:
 - json_dataAnalysis.py
+
+
+
+Plot files:
+see execution below
+
 
 
 
@@ -41,6 +53,11 @@ To run the Python file (.py), open a terminal, go to the directory where the fil
 $ python3 json_dataAnalysis.py
 
 
+At runtime, it will generate and save all the 4 plot files as .jpg in the same directory. These are:
+- Figure_Plot1_topTenCountries.jpg
+- Figure_Plot2_topTenMajorProjectThemes.jpg
+- Figure_Plot3_bar_allMajorProjectThemes.jpg
+- Figure_Plot4_pie_allMajorProjectThemes.jpg
 
 
 ===== Description =====
