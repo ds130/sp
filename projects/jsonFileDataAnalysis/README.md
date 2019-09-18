@@ -4,7 +4,6 @@ Project Title: Data Science - JSON File: Loading and Data Analysis
 ===== To view Notebook file in Github =====
 
 Due to a github bug, sometimes jupyter notebook files fail to load. If that happens, then to view the notebook file paste this link to your browser:
-
 https://nbviewer.jupyter.org/github/ds130/sp/blob/master/projects/jsonFileDataAnalysis/json_dataAnalysis.ipynb
 
 ===== 
